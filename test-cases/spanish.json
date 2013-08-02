@@ -29,19 +29,19 @@
   "Posible lluvia ligera":
     ["title", "possible-light-rain"],
 
-  "Pluvia ligera":
+  "Lluvia ligera":
     ["title", "light-rain"],
 
-  "Pluvia":
+  "Lluvia":
     ["title", "medium-rain"],
 
-  "Pluvia intensa":
+  "Lluvia intensa":
     ["title", "heavy-rain"],
 
   "Posible aguanieve muy ligera":
     ["title", "possible-very-light-sleet"],
 
-  "Pguanieve muy ligera":
+  "Aguanieve muy ligera":
     ["title", "very-light-sleet"],
 
   "Posible aguanieve ligera":

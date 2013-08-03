@@ -100,10 +100,10 @@
   "Despejado para la hora.":
     ["sentence", ["for-hour", "clear"]],
 
-  "Posible nieve muy ligera comenzando en 35 min.":
+  "Nieve muy ligera comenzando en 35 min.":
     ["sentence", ["starting-in", "very-light-snow", ["minutes", 35]]],
 
-  "Llovizna deteniéndose en 15 min.":
+  "Lluvia ligera deteniéndose en 15 min.":
     ["sentence", ["stopping-in", "light-rain", ["minutes", 15]]],
 
   "Aguanieve intensa comenzando en 20 min., deteniéndose 30 min. más tarde.":
@@ -124,7 +124,7 @@
   "Principalmente nublado durante todo el día.":
     ["sentence", ["for-day", "medium-clouds"]],
 
-  "Posible aguanieve muy ligera comenzando por la mañana.":
+  "Aguanieve muy ligera comenzando por la mañana.":
     ["sentence", ["starting", "very-light-sleet", "morning"]],
 
   "Ventoso hasta esta noche.":
@@ -133,7 +133,7 @@
   "Precipitación intensa hasta la tarde.":
     ["sentence", ["until", "heavy-precipitation", "afternoon"]],
 
-  "Poco ventoso en la tarde.":
+  "Poco ventoso durante la tarde.":
     ["sentence", ["during", "light-wind", "afternoon"]],
 
   "Nieve más adelante en la noche y mañana por la mañana.":
@@ -147,7 +147,7 @@
       "later-today-morning",
       "today-evening"]],
 
-  "Totalmente nublado comenzando en la noche, continuando hasta la noche.":
+  "Totalmente nublado comenzando al anochecer, continuando hasta la noche.":
     ["sentence", ["starting-continuing-until",
       "heavy-clouds",
       "evening",
@@ -179,7 +179,7 @@
         "tomorrow-evening",
         "tomorrow-night"]]],
 
-  "Nieve (5 in.) durante la noche.":
+  "Nieve (5 in.) en la noche.":
     ["sentence", ["during",
       ["parenthetical", "medium-snow", ["inches", 5]],
       "night"]],
@@ -199,35 +199,35 @@
       "afternoon"]],
 
 
-  "Sin precipitación durante toda la semana, con temperaturas máximas de 85\u00b0f mañana.":
+  "Sin precipitación durante toda la semana, con temperaturas máximas de 85\u00b0F mañana.":
     ["sentence", ["with",
       ["for-week", "no-precipitation"],
       ["temperatures-peaking",
         ["fahrenheit", 85],
         "tomorrow"]]],
 
-  "Precipitación mixta durante todo fin de semana, con aumento de las temperaturas a 32\u00b0c el jueves.":
+  "Precipitación mixta durante todo fin de semana, con aumento de las temperaturas a 32\u00b0C el jueves.":
     ["sentence", ["with",
       ["over-weekend", "mixed-precipitation"],
       ["temperatures-rising",
         ["celsius", 32],
         "thursday"]]],
 
-  "Llovizna hoy, con temperaturas de hasta 15\u00b0f el viernes.":
+  "Llovizna hoy, con temperaturas de hasta 15\u00b0F el viernes.":
     ["sentence", ["with",
       ["during", "very-light-rain", "today"],
       ["temperatures-valleying",
         ["fahrenheit", 15],
         "friday"]]],
 
-  "Nieve ligera el lunes y el martes, con temperaturas cayendo a to 0\u00b0c el domingo.":
+  "Nieve ligera el lunes y martes, con temperaturas cayendo a 0\u00b0C el domingo.":
     ["sentence", ["with",
       ["during", "light-snow", ["and", "monday", "tuesday"]],
       ["temperatures-falling",
         ["celsius", 0],
         "sunday"]]],
 
-  "Precipitación media de miércoles a sábado, con temperaturas máximas de 100\u00b0f el lunes.":
+  "Precipitación media de miércoles a sábado, con temperaturas máximas de 100\u00b0F el lunes.":
     ["sentence", ["with",
       ["during",
         "medium-precipitation",
